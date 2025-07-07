@@ -39,7 +39,7 @@ A dynamic and responsive News Blog Website that displays categorized news articl
 
 ## 🌐 Live Demo
 
-🔗 [View Live Project](https://newscms1.rf.gd/)
+🔗 View Live Project[News CMS Project](https://newscms1.rf.gd/)
 
 ---
 
