@@ -6,14 +6,12 @@ A dynamic and responsive News Blog Website that displays categorized news articl
 
 ## ✨ Features
 
+- **Categorized News Display**: News articles are organized under categories such as **Sports**, **Education**, **Entertainment**, and more for clear and structured viewing.
+- **Editorial and Latest News Sections**: Highlights trending and recently published content to keep users informed and engaged.
+- **Search Functionality**: Allows users to easily find articles using keywords from the title, description, or author name.
+- **Pagination Support**: Enables smooth navigation through multiple pages of news articles.
+- **Responsive Design**: Developed using **Bootstrap** for a consistent and seamless user experience across all screen sizes and devices.
 
-- Categorized news display: Sports, Education, Entertainment, and more
-- Editorial and Latest News sections to highlight trending and recent content
-- Search functionality to help users easily find articles
-- Pagination implemented for smoother navigation through multiple news articles
-- Responsive design using Bootstrap for seamless viewing across devices
-
----
 
 ## 🔐 Admin Panel
 
