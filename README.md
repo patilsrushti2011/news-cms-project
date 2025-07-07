@@ -6,9 +6,11 @@ A dynamic and responsive News Blog Website that displays categorized news articl
 
 ## ✨ Features
 
+
 - Categorized news display: Sports, Education, Entertainment, and more
 - Editorial and Latest News sections to highlight trending and recent content
 - Search functionality to help users easily find articles
+- Pagination implemented for smoother navigation through multiple news articles
 - Responsive design using Bootstrap for seamless viewing across devices
 
 ---
@@ -17,12 +19,13 @@ A dynamic and responsive News Blog Website that displays categorized news articl
 
 - Secure login with session-based authentication
 - Manage content:
-  - Add, edit, delete **articles**
-  - Add, edit, delete **categories**
-  - Add, edit, delete **footer information**
-- Create and manage admin users with role-based access:
-  - **Admin**: Full access to all functionalities
-  - **Normal user**: Can only add and manage news posts
+  - Add, edit, delete articles
+  - Add, edit, delete categories
+  - Add, edit, delete footer information
+- Create and manage all users with role-based access:
+  - **Admin**: Full access — can manage all content and also add, edit, or delete both admin and normal users
+  - **User**: Limited access — can only add and manage their own news posts
+
 
 ---
 
@@ -30,36 +33,21 @@ A dynamic and responsive News Blog Website that displays categorized news articl
 
 - **Backend**: PHP
 - **Database**: MySQL
-- **Frontend**: HTML, CSS, Bootstrap 5
+- **Frontend**: HTML, CSS, Bootstrap 
 
 ---
 
 ## 🌐 Live Demo
 
-🔗 [View Live Project](https://srushti-news-cms.infinityfreeapp.com)
+🔗 [View Live Project](https://newscms1.rf.gd/)
 
 ---
 
-## 📝 How to Run Locally
-
-1. Clone or download the repository
-2. Import the [`news-cms.sql`](database/news-cms.sql) file into your MySQL database
-3. Update database credentials in `config.php`
-4. Run the website locally using a server environment like **XAMPP** or **WAMP**
-
----
-
-## 📽️ Credits
-
-This project was developed by following the tutorials from  
-[Yahoo Baba YouTube Channel](https://www.youtube.com/@YahooBaba)
-
----
 
 ## 🙏 Acknowledgements
 
-- Special thanks to [Yahoo Baba](https://www.youtube.com/@YahooBaba) for providing beginner-friendly tutorials that made this project possible.
-
+- Special thanks to [Yahoo Baba](https://www.youtube.com/@YahooBaba) for the beginner-friendly tutorials that helped build the foundation of this project.
+- 
 ---
 
 ## 💬 Feedback
