@@ -38,6 +38,9 @@ A dynamic and responsive News Blog Website that displays categorized news articl
 ## 🌐 Live Demo
 
 🔗 View Live Project[News CMS Project](https://newscms1.rf.gd/)
+- **Admin URL:** [News CMS Project/Admin](https://newscms1.rf.gd/admin/)
+- **Demo Username:** `Admin`
+- **Demo Password:** `Admin@123`
 
 ---
 
@@ -47,7 +50,10 @@ A dynamic and responsive News Blog Website that displays categorized news articl
 - Special thanks to [Yahoo Baba](https://www.youtube.com/@YahooBaba) for the beginner-friendly tutorials that helped build the foundation of this project.
 - 
 ---
+## Demo Content Notice
 
+This news portal was created as a demonstration project. All news articles are fictional and intended to showcase website functionality, design, and layout. No real data sources or news APIs are used.
+---
 ## 💬 Feedback
 
 If you like this project, feel free to ⭐ star the repo, fork it, or share your feedback. Contributions are welcome!
