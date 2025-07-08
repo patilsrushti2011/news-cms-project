@@ -52,6 +52,7 @@ A dynamic and responsive News Blog Website that displays categorized news articl
 ---
 
 📌 Note: All news articles used in this project are fictional and created for demo/testing purposes only.
+
 ---
 
 ## 💬 Feedback
