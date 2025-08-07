@@ -44,13 +44,6 @@ A dynamic and responsive News Blog Website that displays categorized news articl
 
 ---
 
-
-## 🙏 Acknowledgements
-
-- Special thanks to [Yahoo Baba](https://www.youtube.com/@YahooBaba) for the beginner-friendly tutorials that helped build the foundation of this project.
-
----
-
 📌 Note: All news articles used in this project are fictional and created for demo/testing purposes only.
 
 ---
