@@ -35,15 +35,6 @@ A dynamic and responsive News Blog Website that displays categorized news articl
 
 ---
 
-## 🌐 Live Demo
-
-🔗 View Live Project [News CMS Project](https://newscms1.rf.gd/)
-- **Admin URL:** [News CMS Project/Admin](https://newscms1.rf.gd/admin/)
-- **Demo Username:** `Admin`
-- **Demo Password:** `Admin@123`
-
----
-
 📌 Note: All news articles used in this project are fictional and created for demo/testing purposes only.
 
 ---
